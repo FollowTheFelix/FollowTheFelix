@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+As a passionate full-stack software engineer, I am committed to ongoing learning and the development of code aimed at enhancing the world, striving to create a more efficient and user-friendly environment for everyone.
 <!--
 **FollowTheFelix/FollowTheFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
