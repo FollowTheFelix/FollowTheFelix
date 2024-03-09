@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-As a passionate full-stack software engineer, I am committed to ongoing learning and the development of code aimed at enhancing the world, striving to create a more efficient and user-friendly environment for everyone.
+As a dynamic engineer, I excel in problem-solving, tech application, and tool-agnostic practices. My commitment extends to optimizing task efficiency, upholding responsibility, and fostering teamwork. As a passionate full-stack software engineer, I dedicate myself to continuous learning and crafting code that not only solves problems but also contributes to creating a more efficient and user-friendly global environment.
 
 | Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON, Typescript, EJS, DTL |<br>
 | Libraries and Frameworks: React, Express.js, Django, Jquery, Bootstrap, Semantic UI, Bulma |<br>
